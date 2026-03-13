@@ -11,10 +11,14 @@
             "id": "78b21a171f0d31f8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Android/andr0id test n0te.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "andr0id test n0te"
             }
           }
         ]
@@ -178,5 +182,8 @@
     }
   },
   "active": "78b21a171f0d31f8",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Android/andr0id test n0te.md",
+    "Android"
+  ]
 }
